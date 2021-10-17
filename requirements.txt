@@ -1,4 +1,4 @@
-
+gspread
 pandas
 numpy
 streamlit
@@ -15,5 +15,5 @@ seaborn
 xlsxwriter
 gspread
 streamlit-pandas-profiling==0.1.2
-
+gspread_dataframe
 # python-barcode-writer>=1.0.1
